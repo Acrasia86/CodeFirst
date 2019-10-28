@@ -8,6 +8,8 @@ namespace CodeFirstNew
         {
             var start = new Menu();
             start.Menus();
+
+            //ENJOY!!
         }
     }
 }
